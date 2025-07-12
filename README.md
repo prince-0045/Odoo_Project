@@ -176,11 +176,3 @@ Visit `http://localhost:3000` to see the application.
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🆘 Support
-
-For support, email support@stackit.com or create an issue in the repository. 
